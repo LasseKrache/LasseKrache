@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LasseKrache
 - 👀 I’m interested in IT Security, Mac, Windows
-- 🌱 I’m currently learning Docker & ISMS
+- 🌱 I’m currently working on ISMS and documentation with mkdocs
 - 💞️ I’m looking to collaborate on ...?
 
 
